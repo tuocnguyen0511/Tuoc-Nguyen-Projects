@@ -1,4 +1,4 @@
-# MIS 311 - Data analytic Project
+# MIS 311 - Portfolio Project :
 
 Dataset: Supermarket Sale
 
