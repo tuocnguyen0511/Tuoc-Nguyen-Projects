@@ -1,4 +1,10 @@
-# Tuoc-Nguyen-Projects
+# MIS 311 - Data analytic Project
+Dataset: Supermarket Sale
+Student: Nguyen Trong Tuoc
+IRR: 2432300332
+
+
+
 **Data Overview :** 
 
 The Supermarket Sale dataset captures granular transaction-level data from a retail supermarket chain with operations spanning multiple branches and cities. Each record corresponds to a single purchase and documents key details including the store branch and city, customer segment, product and category, quantity sold, and the total transaction value in USD.
